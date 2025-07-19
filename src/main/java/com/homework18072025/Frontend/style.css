@@ -1,0 +1,61 @@
+* {
+    font-family: Segoe UI;
+    background: #141414;
+    padding-bottom: 15px;
+}
+
+.main-header h1 {
+    font-size: 50px;
+    text-align: center;
+    color: #b9b9b9;
+}
+
+.main-header .contacts {
+    font-size: 25px;
+    text-align: center;
+    color: #b9b9b9;
+}
+
+.summary h1, .experience h1, .education h1 {
+    font-size: 20px;
+    text-align: left;
+    color: #aaaaaa;
+    padding-left: 40px;
+}
+
+h2 {
+    font-size: 16px;
+    text-align: left;
+    color: #afafaf;
+    padding-left: 40px;
+}
+
+h3 {
+    font-size: 22px;
+    text-align: left;
+    color: #b9b9b9;
+    padding-left: 40px;
+}
+
+b {
+    font-size: 18px;
+    text-align: left;
+    color: #aaaaaa;
+    padding-left: 40px;
+}
+
+.experience i, .education i {
+    font-size: 16px;
+    color: #afafaf;
+    padding-left: 8px;
+}
+
+.summary p {
+    font-size: 18px;
+    color: #bebebe;
+}
+
+ul {
+    font-size: 18px;
+    color: #bebebe;
+}
